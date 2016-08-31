@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<elements>
+   <element>
+      <name>ns2:Denomination</name>
+      <path></path>
+   </element>
+   <element>
+      <name>ns2:InventoryUnit</name>
+      <path></path>
+   </element>   
+</elements>
